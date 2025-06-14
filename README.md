@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Bhairisetti Venkatesh</h1>
-<h3 align="center">A passionate MERN stack web developer and a curious learner about new technologies.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhairisettivenkatesh&label=Profile%20views&color=0e75b6&style=flat" alt="bhairisettivenkatesh" /> </p>
+<h3 align="center">A passionate MERN stack web developer from India</h3>
 
 - 🌱 I’m currently learning **React and Backend Technologies**
 
-- 💬 Ask me about **Java,MERN,DSA,SQL**
+- 💬 Ask me about **Java,MERN**
 
 - 📫 How to reach me **bhairisetti.venkatesh2004@gmail.com**
 
