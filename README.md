@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React and Backend Technologies**
 
-- 💬 Ask me about **Java,MERN**
+- 💬 Ask me about **Java,MERN,DSA,SQL**
 
 - 📫 How to reach me **bhairisetti.venkatesh2004@gmail.com**
 
